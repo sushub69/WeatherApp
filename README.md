@@ -2,7 +2,7 @@
 
 A simple desktop weather application built with **Python** and **PyQt5**, showing real-time weather conditions for any city using the OpenWeatherMap API.
 
-![WeatherApp Screenshot](Weather_Images/Weatheroutput.png)
+![WeatherApp Screenshot](Weather_Images/WeatherOutput.png)
 
 ## Features
 
